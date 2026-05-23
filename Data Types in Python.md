@@ -506,6 +506,3 @@ print(name)
 | NoneType | Absence of value | `None` |
 
 ---
-
-
-
